@@ -1,5 +1,5 @@
 ---
-title: Kaining Hu (胡恺宁)
+title: Kaining Hu
 role: Postdoc Scholar of Bioinformatics
 avatar_filename: img_7386_small.jpeg
 bio: My research interests include evolution and the application of
